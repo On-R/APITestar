@@ -1,0 +1,15 @@
+[{
+    "Id":1,
+    "Banan": "Ja",
+    "Citron": "Nej"
+},
+{
+    "Id":2,
+    "Banan": "Nej",
+    "Citron": "Nej"
+},
+{
+    "Id":3,
+    "Banan": "Ja",
+    "Citron": "Ja"
+}]
